@@ -144,6 +144,6 @@ ToDO/
 
 | Tanggal | Perubahan |
 |---------|-----------|
-| 2024-12 | Restrukturisasi dokumen menjadi 5 topik utama |
-| 2024-12 | Penambahan visualisasi ASCII dan diagram |
-| 2024-12 | Revisi format menjadi lebih profesional |
+| 2025-12-29 | Restrukturisasi dokumen menjadi 5 topik utama |
+| 2025-12-29 | Penambahan visualisasi ASCII dan diagram |
+| 2025-12-29 | Revisi format menjadi lebih profesional |
