@@ -216,9 +216,9 @@ results = model.train(
 
 **Ringkasan Waktu Efektif:**
 - **Total Durasi:** 8 jam
-- **Waktu Kerja Efektif:** **~6 jam 45 menit (405 menit)** per hari.
-- **Istirahat/Break:** 1 jam 15 menit.
-- **Estimasi Output:** Dengan asumsi sangat realistis **1 - 2 gambar per menit** (rata-rata 30-60 detik per gambar untuk diskusi mendalam pakar), satu tim dapat menyelesaikan **~400 - 800 gambar per hari**. Dengan 2 tim paralel, target 4.000 gambar total diperkirakan akan selesai dalam waktu **~3 - 5 hari kerja**. Angka ini memberikan ruang yang cukup untuk menjaga kualitas data tanpa kelelahan berlebih.
+- **Waktu Kerja Efektif:** **5 jam 45 menit (345 menit)** per hari.
+- **Istirahat/Break:** 2 jam 15 menit (termasuk persiapan dan evaluasi).
+- **Estimasi Output:** Dengan asumsi sangat realistis **1 - 2 gambar per menit** (rata-rata 30-60 detik per gambar), satu tim dapat menyelesaikan **~350 - 700 gambar per hari**. Dengan 2 tim paralel, target 4.000 gambar total diperkirakan akan selesai dalam waktu **~3 - 6 hari kerja**. Angka ini jauh lebih aman untuk menjaga kualitas data tanpa kelelahan berlebih.
 
 ### 2.4.3 Pembagian Peran
 
