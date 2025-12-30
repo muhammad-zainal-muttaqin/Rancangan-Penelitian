@@ -79,8 +79,8 @@ Auto-labeling bertujuan untuk menghasilkan anotasi awal (pre-label) yang akan di
 | Aspek | Manual dari Awal | Dengan Auto-Label |
 |-------|------------------|-------------------|
 | Tugas pakar | Gambar bounding box | Validasi dan koreksi |
-| Waktu per gambar | 2-5 menit | 15-30 detik |
-| Throughput | 12-30 gambar/jam | 120-240 gambar/jam |
+| Waktu per gambar | 2-5 menit | 30-60 detik |
+| Throughput | 12-30 gambar/jam | 60-120 gambar/jam |
 
 ### 2.3.3 Tools
 
